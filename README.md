@@ -1,7 +1,5 @@
 # lk_shell_libraries
-Conjunto de librerías bash para su uso en la programación de shell scripts. La versión actual incluye las siguientes librerías:
-
-* lk_option_parser.sh: librería para la gestión de argumentos en shell scripts al estilo de C o python.
-* lk_math.sh: conjunto de funciones matemáticas (en construcción)
-* lk_net.sh: una serie de utilidades relacionadas con tareas de red (en construcción)
-
+Set of shell scripting libraries. Current version includes the following libraries:
+* lk_option_parser.sh: library to handle options in your shell script command line with C or python coding style.
+* lk_math.sh: set of mathematical functions (under construction)
+* lk_net.sh: some functions to help with network tasks (under construction)
